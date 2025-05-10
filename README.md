@@ -1,8 +1,8 @@
-# 🌾 Crop Recommendation System
+#  Crop Recommendation System
 
 A machine learning-based system that recommends the most suitable crop to grow based on soil and environmental conditions.
 
-## 📌 Overview
+##  Overview
 
 This project uses a supervised machine learning model to predict the most suitable crop to cultivate, given parameters such as:
 
@@ -14,20 +14,20 @@ This project uses a supervised machine learning model to predict the most suitab
 - pH value
 - Rainfall
 
-## 🚀 Features
+##  Features
 
 - Predicts the best crop to grow in given conditions
 - Built using Python and Scikit-learn
 - Jupyter Notebook for model training and evaluation
 - Dataset sourced from public agricultural data
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - Python
 - Jupyter Notebook
 - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 crop-recommendation-system/
@@ -39,7 +39,7 @@ crop-recommendation-system/
     └── crop_data.csv              # Dataset used for training
 ```
 
-## ⚙️ How to Run
+##  How to Run
 
 1. **Clone the repository:**
    ```bash
@@ -59,11 +59,11 @@ crop-recommendation-system/
 
 4. **Run all cells** to train the model and test predictions.
 
-## 📊 Sample Output
+##  Sample Output
 
 > Predicted Crop: **Rice**  
 > Based on input conditions like N=90, P=40, K=40, temperature=25°C, pH=6.5, etc.
 
-## 📜 License
+##  License
 
 This project is open source under the [MIT License](LICENSE).
